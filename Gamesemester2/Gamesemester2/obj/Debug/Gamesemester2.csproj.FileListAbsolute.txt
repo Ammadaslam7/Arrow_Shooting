@@ -1,0 +1,14 @@
+C:\Users\Ayesh\Desktop\WORK\semester 2\Gamesemester2\Gamesemester2\bin\Debug\Gamesemester2.exe.config
+C:\Users\Ayesh\Desktop\WORK\semester 2\Gamesemester2\Gamesemester2\bin\Debug\Gamesemester2.exe
+C:\Users\Ayesh\Desktop\WORK\semester 2\Gamesemester2\Gamesemester2\bin\Debug\Gamesemester2.pdb
+C:\Users\Ayesh\Desktop\WORK\semester 2\Gamesemester2\Gamesemester2\bin\Debug\EZInput.dll
+C:\Users\Ayesh\Desktop\WORK\semester 2\Gamesemester2\Gamesemester2\bin\Debug\EZInput.xml
+C:\Users\Ayesh\Desktop\WORK\semester 2\Gamesemester2\Gamesemester2\obj\Debug\Gamesemester2.csproj.AssemblyReference.cache
+C:\Users\Ayesh\Desktop\WORK\semester 2\Gamesemester2\Gamesemester2\obj\Debug\Gamesemester2.Gamelvl1.resources
+C:\Users\Ayesh\Desktop\WORK\semester 2\Gamesemester2\Gamesemester2\obj\Debug\Gamesemester2.Properties.Resources.resources
+C:\Users\Ayesh\Desktop\WORK\semester 2\Gamesemester2\Gamesemester2\obj\Debug\Gamesemester2.csproj.GenerateResource.cache
+C:\Users\Ayesh\Desktop\WORK\semester 2\Gamesemester2\Gamesemester2\obj\Debug\Gamesemester2.csproj.CoreCompileInputs.cache
+C:\Users\Ayesh\Desktop\WORK\semester 2\Gamesemester2\Gamesemester2\obj\Debug\Gamesemester2.csproj.CopyComplete
+C:\Users\Ayesh\Desktop\WORK\semester 2\Gamesemester2\Gamesemester2\obj\Debug\Gamesemester2.exe
+C:\Users\Ayesh\Desktop\WORK\semester 2\Gamesemester2\Gamesemester2\obj\Debug\Gamesemester2.pdb
+C:\Users\Ayesh\Desktop\WORK\semester 2\Gamesemester2\Gamesemester2\obj\Debug\Gamesemester2.Level2cs.resources
